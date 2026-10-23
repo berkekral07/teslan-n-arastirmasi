@@ -15,3 +15,4 @@ Raporlar/AsamaRaporu.pdf: Proje aşama raporu
 Rapor
 
 Proje raporu Raporlar klasöründe PDF formatında bulunmaktadır.
+.
