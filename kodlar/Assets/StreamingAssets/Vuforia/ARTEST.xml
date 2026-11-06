@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tesla_08_gelecege_katkisi_video" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_07_son_yillari_ve_mirasi" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_05_yaptigi_icatlar" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_06_tesla_bobini_ve_kablosuz_enerji" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_04_alternatif_akim" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_03_egitimi_ve_kariyeri" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_01_kapak" size="5.000000 6.666667" />
+    <ImageTarget name="tesla_02_hayati_ve_cocuklugu" size="5.000000 6.666667" />
+    <ImageTarget name="gelariedit3" size="5.000000 3.493652" />
+  </Tracking>
+</QCARConfig>
